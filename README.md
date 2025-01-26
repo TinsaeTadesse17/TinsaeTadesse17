@@ -32,6 +32,8 @@ I'm a **Software Engineering (AI Stream)** student at Addis Ababa University, pa
   Leveraged CNNs for accurate and efficient face recognition.  
 - **[Wellness Assistant AI](https://github.com/TinsaeTadesse17/Wellness-Assistant-AI)**  
   Chatbot using Gemini API for promoting mental wellness with an accessible design.
+- **[Face Recognition App](https://github.com/Face-Recognition-Model/Team-s-Face-Recognition.git)**  
+  mobile application leveraging advanced computer vision techniques for accurate and efficient face recognition.
 
 ## 📜 Certifications
 - **JavaScript Algorithms and Data Structures** – freeCodeCamp  
