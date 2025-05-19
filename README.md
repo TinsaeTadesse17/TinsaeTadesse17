@@ -5,7 +5,7 @@
 💼 [LinkedIn](http://www.linkedin.com/in/tinsae-tadesse-3465291b5) | 🎯 [LeetCode](https://leetcode.com/u/Tinsae_T/) | 🖥️ [Portfolio](https://github.com/TinsaeTadesse17)
 
 ## 🚀 About Me
-I'm a **Software Engineering (AI Stream)** student at Addis Ababa University, passionate about **Machine Learning**, **Computer Vision**, and **Web Development**. I'm currently a junior researcher working on innovative solutions in computer vision and computer graphics, including **Improving 3D reconstruction of symmetrical objects using graph algorithms**.
+I'm an **AI Engineer** passionate about **Machine Learning**, **Computer Vision**, and **Web Development**. I'm currently a junior researcher working on innovative solutions in computer vision and computer graphics, including **Improving 3D reconstruction of symmetrical objects using graph algorithms**.
 
 ## 🛠 Skills
 - **Languages:** Python, JavaScript, TypeScript, Java  
